@@ -116,12 +116,12 @@ export default function Home() {
         <div className="hero-card">
           <p>People helped this year</p>
           <div className="hero-stat">
-            <span className="num">2,400+</span>
+            <span className="num">1,800+</span>
           </div>
           <hr className="hero-divider" />
           <p>Average debt resolved</p>
           <div className="hero-stat">
-            <span className="num">£18k</span>
+            <span className="num">£50k</span>
           </div>
           <hr className="hero-divider" />
           <p>Years of experience</p>
