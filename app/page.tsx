@@ -557,7 +557,7 @@ export default function Home() {
               A trusted UK debt relief agency providing compassionate, expert
               guidance on IVA, DMP, and PBS solutions.
             </p>
-            <div className="footer-email">✉ hello@creditsolutions.co.uk</div>
+            <div className="footer-email">✉ info@debtssupportservice.co.uk</div>
           </div>
           <div className="footer-links">
             <h4>Services</h4>
