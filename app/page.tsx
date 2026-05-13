@@ -422,7 +422,7 @@ export default function Home() {
             </p>
             <div className="contact-detail">
               <div className="contact-icon">✉</div>
-              <span>hello@creditsolutions.co.uk</span>
+              <span>info@debtservice.co.uk</span>
             </div>
             <div className="contact-detail">
               <div className="contact-icon">📞</div>
